@@ -3,12 +3,6 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<artifactId>base</artifactId>
-		<groupId>ro.kuberam.xars</groupId>
-		<version>0.0.1</version>
-	</parent>
-
 	<artifactId>base</artifactId>
 	<groupId>ro.kuberam.xars.expath-exist-demos</groupId>
 	<version>0.0.2</version>
@@ -52,6 +46,7 @@
 				<plugin>
 					<groupId>ro.kuberam.maven.plugins</groupId>
 					<artifactId>kuberam-expath-plugin</artifactId>
+					<version>0.4.5</version>
 					<executions>
 						<execution>
 							<id>create-xar</id>
