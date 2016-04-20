@@ -13,7 +13,7 @@
 		<package-abbrev>expath-${project.artifactId}-exist-demos</package-abbrev>
 		<package-type>application</package-type>
 		<unit-tests-dir-path>/home/claudius/workspaces/repositories/git/${project.artifactId}-exist-java-lib</unit-tests-dir-path>
-		<lib-dir-path>/home/claudius/workspaces/repositories/git/kuberam/libs/java/${project.artifactId}</lib-dir-path>
+		<lib-dir-path>/home/claudius/workspaces/repositories/git/${project.artifactId}-java-lib</lib-dir-path>
 	</properties>
 
 	<build>
